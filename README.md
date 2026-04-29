@@ -1,5 +1,3 @@
-# Ryan Strope
-## Staff Platform & Infrastructure Engineer
-
-
 [Download my PDF Resume](./resume.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/ryan-strope/)
